@@ -4,3 +4,5 @@ import "polygon";
 import "voronoi";
 import "delaunay";
 import "quadtree";
+import "rectangle";
+import "quadtree_rect";
